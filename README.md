@@ -10,6 +10,7 @@
 - 📫 How to reach me: [devsdevansh@gmail.com](mailto:devsdevansh@gmail.com).
 - 🔗 My portfolio: [Devansh](http://devanshsuwalka.ml/).
 - 🏠 RJ-01
+<br>
 [![Linkedin Badge](https://img.shields.io/badge/devansh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/devansh-nsut/)
 [![Leetcode Badge](https://img.shields.io/badge/dev_ansh-30302f?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/dev_ansh/)
 [![Gmail Badge](https://img.shields.io/badge/devsdevansh@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:devsdevansh@gmail.com)
