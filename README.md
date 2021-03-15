@@ -28,15 +28,13 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
 </p>
- **Connect with me:**
+**Connect with me:**
 <br>
 <!-- [<img align="left" alt="aljagne.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [![Gmail Badge](https://img.shields.io/badge/devsdevansh@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:devsdevansh@gmail.com)
 <br>  
-&nbsp;
-
 ![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=devansh2021&show_icons=true&hide_border=true)
 
 [linkedin]: https://www.linkedin.com/in/devansh-nsut/
