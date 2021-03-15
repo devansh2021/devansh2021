@@ -1,7 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/devansh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/devansh-nsut/)
-[![Gmail Badge](https://img.shields.io/badge/devsdevansh@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:devsdevansh@gmail.com)
 [![Leetcode Badge](https://img.shields.io/badge/dev_ansh-30302f?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/dev_ansh/)
-
 ## Hi there 👋,
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote)
@@ -14,12 +12,13 @@
 - 📫 How to reach me: [devsdevansh@gmail.com](mailto:devsdevansh@gmail.com).
 - 🔗 My portfolio: [Devansh](http://devanshsuwalka.ml/).
 - 🏠 RJ-01
-  **Connect with me:**
 
+ **Connect with me:**
+<br>
 <!-- [<img align="left" alt="aljagne.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[![Gmail Badge](https://img.shields.io/badge/devsdevansh@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:devsdevansh@gmail.com)
 <br>  
 &nbsp;
 
