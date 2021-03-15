@@ -1,6 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/devansh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/devansh-nsut/)
-[![Leetcode Badge](https://img.shields.io/badge/dev_ansh-30302f?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/dev_ansh/)
-[![Gmail Badge](https://img.shields.io/badge/devsdevansh@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:devsdevansh@gmail.com)
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Devansh, Fullstack developer currently living in <b>New Delhi, India</b>. </p>
@@ -12,6 +10,9 @@
 - 📫 How to reach me: [devsdevansh@gmail.com](mailto:devsdevansh@gmail.com).
 - 🔗 My portfolio: [Devansh](http://devanshsuwalka.ml/).
 - 🏠 RJ-01
+[![Linkedin Badge](https://img.shields.io/badge/devansh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/devansh-nsut/)
+[![Leetcode Badge](https://img.shields.io/badge/dev_ansh-30302f?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/dev_ansh/)
+[![Gmail Badge](https://img.shields.io/badge/devsdevansh@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:devsdevansh@gmail.com)
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
