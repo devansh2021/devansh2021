@@ -32,7 +32,7 @@
 </p>
 <br>
  
-![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=devansh2021&show_icons=true&hide_border=true)
+
 
 [linkedin]: https://www.linkedin.com/in/devansh-nsut/
 
