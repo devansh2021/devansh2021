@@ -10,9 +10,9 @@
 - 🔭 I enjoy solving problems. Check out my recent posts here. [![Leetcode Badge](https://img.shields.io/badge/dev_ansh-30302f?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/dev_ansh/)
 - 💬 Ask me about anything, I am happy to help.🙂
 - 📫 How to reach me: [devsdevansh@gmail.com](mailto:devsdevansh@gmail.com).
-- 🔗 My portfolio: [Devansh](http://devanshsuwalka.ml/).
+- 🔗 My recent project: [Next Dev](https://next-dev99.vercel.app/).
 - 🏠 RJ-01
-
+ - ⚡ Fun fact: Peanuts aren’t technically nuts.
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -31,22 +31,5 @@
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
 </p>
 <br>
- 
-
 
 [linkedin]: https://www.linkedin.com/in/devansh-nsut/
-
-<!--
-**devansh2021/devansh2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
